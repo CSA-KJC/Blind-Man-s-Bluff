@@ -22,7 +22,6 @@
 #Katie Chiu
 #Blind Man's Bluff. Last update 5/24/18
 #BETA FINISHED
-#Might clean up some things to make code shorter or find unused variables
 
 #Simple text-based card game with 3 other players (No AI), bet with money
 #You can call, bet, or fold
